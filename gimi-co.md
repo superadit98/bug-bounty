@@ -149,8 +149,6 @@ Step 5: Financial data, payment methods, device fingerprints exfiltrated
 ## Files
 
 - `~/bug-bounty/gimi.co/report-gimi-co.md` — Full pentest report
-- `~/bug-bounty/gimi.co/email-to-gimi.md` — Disclosure email template
-- `~/bug-bounty/gimi.co/users_raw.json` — 89.8MB (234,975 users)
 - `~/bug-bounty/gimi.co/users_100.json` — 100 sample records
 
 ---
