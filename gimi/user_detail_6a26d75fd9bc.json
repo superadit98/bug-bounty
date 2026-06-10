@@ -1,0 +1,118 @@
+{
+  "user": {
+    "levelScore": {
+      "total": 0,
+      "socialMediaSignals": 0,
+      "platformActivity": 0,
+      "trustConsistency": 0,
+      "penalties": 0,
+      "history": []
+    },
+    "tiktokAuth": {
+      "tokenType": "Bearer"
+    },
+    "redditAuth": {
+      "tokenType": "Bearer"
+    },
+    "weeklyStreakData": {
+      "currentStreak": 0,
+      "streakScoreAwarded": false
+    },
+    "withdrawalRestrictions": {
+      "isBlocked": false
+    },
+    "followingCount": 0,
+    "_id": "6a26d75fd9bc4fd959edd75c",
+    "firstName": "\u82e5\u96e8",
+    "lastName": "\u6797",
+    "name": "\u82e5\u96e8 \u6797",
+    "username": "zero-3",
+    "clerkUserId": "user_3ErIj1L0DPH71xBu359CyUZb6Vb",
+    "marketingConsent": true,
+    "hashtags": [
+      "technology",
+      "entertainment"
+    ],
+    "comments": [],
+    "ip_points": 0,
+    "balance": 0,
+    "paid_credits": 0,
+    "user_image": "https://img.clerk.com/eyJ0eXBlIjoicHJveHkiLCJzcmMiOiJodHRwczovL2ltYWdlcy5jbGVyay5kZXYvb2F1dGhfZ29vZ2xlL2ltZ18zRXJJajM5M2FTZmVmdjNrWktUbktvNXp0VVgifQ",
+    "verified": false,
+    "role": "default",
+    "deletion": {
+      "balanceSnapshot": {
+        "balance": null,
+        "paid_credits": null,
+        "ip_points": null
+      },
+      "status": "active",
+      "requestedAt": null,
+      "purgeScheduledAt": null,
+      "purgedAt": null,
+      "initiatedBy": null,
+      "recoveryTokenHash": null,
+      "recoveryTokenExpiresAt": null
+    },
+    "agentAccess": {
+      "enabled": false,
+      "activatedAt": null,
+      "setupFeeCents": 0
+    },
+    "followers": [],
+    "following": [],
+    "followersCount": 0,
+    "trustScore": 1,
+    "is_blocked": false,
+    "conversationIds": [],
+    "seenMessageIds": [],
+    "permissions": [],
+    "accounts": [],
+    "messages": [],
+    "general_submission_price": 10,
+    "general_submission_is_active": false,
+    "level": "beginner",
+    "country": "US",
+    "ees_status": "active",
+    "settings": {
+      "default_payment_method": {
+        "method": "revolut"
+      },
+      "currency": {
+        "code": "USD",
+        "symbol": "$",
+        "name": "US Dollar",
+        "rate": 1
+      }
+    },
+    "locked": false,
+    "banned": false,
+    "banInOrganization": [],
+    "fingerprints": [
+      "a589b73552ac24854ce3e39eb76def9fdfa64b6720d92e4dccdd038e05eed982"
+    ],
+    "possiblyBanEvader": false,
+    "contentSubmissionCount": 0,
+    "noFirstSubmissionEventSent": false,
+    "lastLocation": "6a26d72d3547213be27078d0",
+    "trustScoreHistory": [],
+    "created": "2026-06-08T14:53:19.754Z",
+    "contentTypes": [
+      {
+        "title": "video"
+      }
+    ],
+    "goals": [
+      {
+        "title": "earn-money"
+      }
+    ],
+    "socialMediaAccounts": [],
+    "lastLevelUpdate": "2026-06-08T14:53:19.754Z",
+    "lastActivityAt": "2026-06-08T14:57:08.430Z",
+    "lastSeenFingerprint": "a589b73552ac24854ce3e39eb76def9fdfa64b6720d92e4dccdd038e05eed982",
+    "ageRange": "26-35",
+    "gender": "male"
+  },
+  "isExistsSpark": false
+}
